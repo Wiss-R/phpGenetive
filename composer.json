@@ -1,0 +1,6 @@
+{
+    "require": {
+        "wapmorgan/morphos": "^3.2",
+        "cijic/phpmorphy": "^0.3.3"
+    }
+}
